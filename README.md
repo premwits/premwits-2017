@@ -16,6 +16,9 @@ NOTE: Please be sure that your php.ini set `short_open_tag = On`
 ## About this damn application
 ### Loging in
 Users can login to system by using `login_hash_id` that we stored on `json_dat/account.json`
+
+<br />
+
 ``
 {
   "account":
@@ -43,6 +46,9 @@ Users can login to system by using `login_hash_id` that we stored on `json_dat/a
   ]
 }
 ``
+
+<br />
+
 now we logging in to  system by access ```login/index.php?login_hash_id=$hash```
 For example, I want to login as `Group11`. So, my hash is `6485f687ee8449ce842339c451f01a61`. Finally, I can login to system by access ```login/index.php?login_hash_id=6485f687ee8449ce842339c451f01a61```.
 And then type your player name and tap `START GAME`
