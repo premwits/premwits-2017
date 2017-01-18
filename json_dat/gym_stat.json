@@ -1,0 +1,25 @@
+{
+  "gym_stat":
+  [
+    {"gym_name":"alpha","leader":null,"MonsType":null,"gym_id":"ehd7shw1"},
+    {"gym_name":"bravo","leader":null,"MonsType":null,"gym_id":"ud62hst3"},
+    {"gym_name":"charlie","leader":null,"MonsType":null,"gym_id":"7fh34yd7"},
+    {"gym_name":"delta","leader":null,"MonsType":null,"gym_id":"jahs53gd"},
+    {"gym_name":"echo","leader":null,"MonsType":null,"gym_id":"lgv7uy65"},
+    {"gym_name":"foxtrot","leader":null,"MonsType":null,"gym_id":"e7dyteg4"},
+    {"gym_name":"golf","leader":null,"MonsType":null,"gym_id":"	j47fyetd"},
+    {"gym_name":"hotel","leader":null,"MonsType":null,"gym_id":"x8djeyd0"},
+    {"gym_name":"juliet","leader":null,"MonsType":null,"gym_id":"0eiu7vaf"},
+    {"gym_name":"kilo","leader":null,"MonsType":null,"gym_id":"wiid9lt5"},
+    {"gym_name":"lima","leader":null,"MonsType":null,"gym_id":"EQw0ykm8"},
+    {"gym_name":"mike","leader":null,"MonsType":null,"gym_id":"6mxc8OIi"},
+    {"gym_name":"oscar","leader":null,"MonsType":null,"gym_id":"dEddjgt6"},
+    {"gym_name":"pap","leader":null,"MonsType":null,"gym_id":"wY0ABU8w"},
+    {"gym_name":"quebec","leader":null,"MonsType":null,"gym_id":"VdrWpyeV"},
+    {"gym_name":"romeo","leader":null,"MonsType":null,"gym_id":"aOrSNg0U"},
+    {"gym_name":"sierra","leader":null,"MonsType":null,"gym_id":"nJAzONYO"},
+    {"gym_name":"tango","leader":null,"MonsType":null,"gym_id":"vYrSmKcu"},
+    {"gym_name":"victor","leader":null,"MonsType":null,"gym_id":"e5jCSwDR"},
+    {"gym_name":"whiskey","leader":null,"MonsType":null,"gym_id":"ubd6cef3"}
+  ]
+}

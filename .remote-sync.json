@@ -1,0 +1,15 @@
+{
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "mc.gayriffy.com",
+  "target": "/var/www/html/premwits2",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "Pokemon",
+  "watch": [],
+  "transport": "scp",
+  "password": "Pokemon"
+}

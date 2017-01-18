@@ -1,0 +1,23 @@
+{
+  "bank":
+    [{"group_num":"1","balance":0},
+    {"group_num":"2","balance":0},
+    {"group_num":"3","balance":0},
+    {"group_num":"4","balance":0},
+    {"group_num":"5","balance":0},
+    {"group_num":"6","balance":0},
+    {"group_num":"7","balance":0},
+    {"group_num":"8","balance":0},
+    {"group_num":"9","balance":0},
+    {"group_num":"10","balance":0},
+    {"group_num":"11","balance":0},
+    {"group_num":"12","balance":0},
+    {"group_num":"13","balance":0},
+    {"group_num":"14","balance":0},
+    {"group_num":"15","balance":0},
+    {"group_num":"16","balance":0},
+    {"group_num":"17","balance":0},
+    {"group_num":"18","balance":0},
+    {"group_num":"19","balance":0},
+    {"group_num":"20","balance":0}]
+}

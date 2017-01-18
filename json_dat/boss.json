@@ -1,0 +1,6 @@
+{
+  "boss_db":
+  [{"boss_id":"boss1","name":"a","type":null,"luck":null,"status":"active"},
+  {"boss_id":"boss2","name":"b","type":null,"luck":null,"status":"dead"},
+  {"boss_id":"boss3","name":"c","type":null,"luck":null,"status":"active"}]
+}

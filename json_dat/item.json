@@ -1,0 +1,25 @@
+{
+  "item":
+  [
+    {"item_id":"B101","item_name":"HP Buff","item_color":"B2FF59","item_balance":325},
+    {"item_id":"B201","item_name":"ATK Buff","item_color":"B2FF60","item_balance":325},
+    {"item_id":"B301","item_name":"DEF Buff","item_color":"B2FF61","item_balance":325},
+    {"item_id":"B401","item_name":"MA Buff","item_color":"B2FF62","item_balance":325},
+    {"item_id":"B501","item_name":"MD Buff","item_color":"B2FF63","item_balance":325},
+    {"item_id":"B601","item_name":"SPD Buff","item_color":"B2FF64","item_balance":325},
+    {"item_id":"D101","item_name":"Wound LV.1","item_color":"FFAB40","item_balance":500},
+    {"item_id":"D102","item_name":"Wound LV.2","item_color":"FFAB41","item_balance":800},
+    {"item_id":"D103","item_name":"Wound LV.3","item_color":"FFAB42","item_balance":1200},
+    {"item_id":"D201","item_name":"Power Down Lv.1"	,"item_color":"FFAB43","item_balance":500},
+    {"item_id":"D202","item_name":"Power Down Lv.2"	,"item_color":"FFAB44","item_balance":800},
+    {"item_id":"D203","item_name":"Power Down Lv.3"	,"item_color":"FFAB45","item_balance":1200},
+    {"item_id":"D301","item_name":"Guard Break LV.1","item_color":"FFAB46","item_balance":500},
+    {"item_id":"D302","item_name":"Guard Break LV.2","item_color":"FFAB47","item_balance":800},
+    {"item_id":"D303","item_name":"Guard Break LV.3","item_color":"FFAB48","item_balance":1200},
+    {"item_id":"P101","item_name":"Potion","item_color":"40C4FF","item_balance":325},
+    {"item_id":"P102","item_name":"Super Potion","item_color":"40C4FF","item_balance":450},
+    {"item_id":"P103","item_name":"Mega Potion","item_color":"40C4FF","item_balance":600},
+    {"item_id":"P104","item_name":"Giga Potion","item_color":"40C4FF","item_balance":900},
+    {"item_id":"R000","item_name":"Revival","item_color":"FFFF00","item_balance":1650}
+  ]
+}
